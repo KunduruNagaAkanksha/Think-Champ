@@ -34,13 +34,9 @@ The implementation was done independently for learning purposes, and no backend 
 * Focused on structure, spacing, and responsiveness
 * Practiced converting a real-world design into code
 
-## Live Demo
-
-
-
 ## 📷 Demo Video
 
-
+https://github.com/user-attachments/assets/31149300-c55b-4942-bb8c-ecc51bc84d73
 
 ## 🚀 Future Improvements
 
